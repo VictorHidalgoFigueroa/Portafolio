@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+nav{
+    background-color: #28a745;
+}
+footer{
+    text-align: center;
+}
+.container-fluid{
+    background-color: #28a745
+}
+.container-fluid p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.btn{
+    text-align: center;
+}
+.beta {
+    color: #28a745;
+    font-size: 20px;
+    font-weight: 500;
+}
+.container p{
+    color: grey;
+}
